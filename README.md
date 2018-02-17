@@ -1,2 +1,2 @@
 # nature
-test repository for nature-srv
+nature-test
